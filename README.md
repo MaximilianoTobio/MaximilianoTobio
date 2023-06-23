@@ -1,4 +1,4 @@
-![Maxi Tobio](git.gif)
+![Maxi Tobio](banerGithub.mp4)
 
 <!--
 **MaximilianoTobio/MaximilianoTobio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
