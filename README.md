@@ -1,26 +1,26 @@
 <h3 align="center">Bariloche, Argentina🏔️</h3><br/> 
 
 <p align="center">
-  <img src="https://github.com/MaximilianoTobio/alojamiento-imagenes/blob/main/git.gif" alt="Maxi Tobio" width="600" height="300">
+  <img src="https://github.com/MaximilianoTobio/alojamiento-imagenes/blob/main/git.gif" alt="Maxi Tobio" width="700" height="400">
 </p>
 
 <h2>Sobre mi</h2>
 <p>
-  Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
+
   
   <br/>
   <br/>
   <h4>Me gusta</h4>
   <p>
-    -El frío ❄ <br/>
-    -El mate 🧉 <br/>
-    -Leer 📚
+    -La nieve ❄ <br/>
+    -El café, mucho  <br/>
+    -El cine, el teatro y la literatura
   </p>
   <h4>Hobbies</h4>
   <p>
-    -Sudoku ⌛ <br/>
-    -Ajedrez ♟ <br/>
-    -Tejer 🧶
+    -Puzzle  <br/>
+    -Ajedrez  <br/>
+    -Nadar 
   </p>
 </p>
 <br/>
@@ -28,16 +28,16 @@
 
 ```js
 const MaxxTobio = {
-  pronouns: 'he' || '',
+  pronouns: 'he' || 'him',
   code: {
-    languages: [ "JavaScript", "TypeScript" ],
+    languages: [ "JavaScript", "TypeScript", "Python" ],
     database: [ "MongoDB", "PostgreSQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
-    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
-    inProgress: [ "Python", "Machine learning" ]
+    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules", "Tailwind", "Next", "React Native",  ],
+    inProgress: [ "Machine learning", "Deep learning", "cybersecurity", "AR" ]
   },
   contact: {
-    email: ""
+    email: "maxtobio@gmail.com"
   }
 };
 ```
