@@ -1,5 +1,6 @@
-![Texto alternativo](https://i.imgur.com/k2nQGDt.gif)
-
+<p align="center">
+  <img src="https://i.imgur.com/k2nQGDt.gif" alt="Maxi Tobio" width="700" height="400">
+</p>
 <h3 align="center">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
 
