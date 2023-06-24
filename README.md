@@ -2,7 +2,43 @@
 
 ![Maxi Tobio](https://github.com/MaximilianoTobio/alojamiento-imagenes/blob/main/git.gif)
 
+<h2>Sobre mi</h2>
+<p>
+  Soy una persona apasionada por el aprendizaje, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y aunque mi formación es como Full Stack, tengo una preferencia hacia el área de Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
+  
+  <br/>
+  <br/>
+  <h4>Me gusta</h4>
+  <p>
+    -El frío ❄ <br/>
+    -El mate 🧉 <br/>
+    -Leer 📚
+  </p>
+  <h4>Hobbies</h4>
+  <p>
+    -Sudoku ⌛ <br/>
+    -Ajedrez ♟ <br/>
+    -Tejer 🧶
+  </p>
+</p>
+<br/>
 
+
+```js
+const Daiana215 = {
+  pronouns: 'she' || 'her',
+  code: {
+    languages: [ "JavaScript", "TypeScript" ],
+    database: [ "MongoDB", "PostgreSQL" ],
+    backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
+    frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
+    inProgress: [ "Python", "CiberSecurity" ]
+  },
+  contact: {
+    email: "daiana_agustina@outlook.com"
+  }
+};
+```
 
 
 
