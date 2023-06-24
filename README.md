@@ -12,7 +12,7 @@
 
 Haz clic en el botón para traducir el texto al inglés:
 
-[![Traducir al inglés](https://translate.google.com/favicon.ico)](https://translate.google.com/translate?sl=es&tl=en&u=https://github.com/MaximilianoTobio/MaximilianoTobio/raw/main/README.md#es/en/)
+[![Traducir al inglés]](https://github.com/MaximilianoTobio/MaximilianoTobio/blob/a9bc363f4604c959e1d41eb2aaf8efaec56fb040/README-EN.md)
 
 <br/>
   <br/>
