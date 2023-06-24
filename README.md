@@ -3,68 +3,28 @@
 </p>
 <h3 align="center">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
-<h3>Sobre mi:
-</h3>
+
+### Sobre mí
+```js
+{es: "Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico."}
+```
+### About me
 
 ```js
-let spanish = "Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico."
+{en:"I am passionate about technology, I am always researching and testing new alternatives and developments. I enjoy solving problems and looking for new ideas for development. Programming is a fascinating discipline and I love immersing myself in it, feeling that it is an almost magical process."}
 ```
-<h3>Translate</h3>
-
-```js
-async function traducirTexto(text) {
-  const url = `https://translation.googleapis.com/language/translate/v2?key=API_KEY`;
-
-  const data = {
-    q: texto,
-    source: 'es',
-    target: 'en'
-  };
-
-  try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(data)
-    });
-
-    const json = await response.json();
-    const traduccion = json.data.translations[0].translatedText;
-
-    return traduccion;
-  } catch (error) {
-    console.error('Error', error);
-    return null;
-  }
-}
-```
-```js
-traducirTexto(spanish)
-  .then(traduccion => {
-    return(traduccion);
-  })
-```
-```bash
-English version:
-"I am passionate about technology, I am always researching and testing new alternatives and developments. I enjoy solving problems and looking for new ideas for development. Programming is a fascinating discipline and I love immersing myself in it, feeling that it is an almost magical process. "
-```
-
-
 <br/>
   <br/>
-  <h4>Me gusta</h4>
+  <p>🙋‍♂️</p>
   <p>
     -La nieve ❄ <br/>
-    -El café, mucho  <br/>
-    -El cine, el teatro y la literatura
+    -El café ☕️, mucho  <br/>
+    -El cine, el teatro y la literatura 🎨
   </p>
-  <h4>Hobbies</h4>
   <p>
-    -Puzzle  <br/>
-    -Ajedrez  <br/>
-    -Nadar 
+    -Puzzle 🧩 <br/>
+    -Ajedrez ♟️  <br/>
+    -Nadar 🏊‍♂️
   </p>
 </p>
 <br/>
