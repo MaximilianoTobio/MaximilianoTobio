@@ -1,7 +1,7 @@
 <p align="center">
 
-  [Imgur](https://i.imgur.com/k2nQGDt.gifv)
-  
+  ![Imgur](https://i.imgur.com/k2nQGDt.gifv)
+
 </p>
 
 <h3 align="center">📍Bariloche 🏔️, Argentina </h3>
