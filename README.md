@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe class="imgur-embed" width="100%" height="1080" frameborder="0" src="https://i.imgur.com/k2nQGDt.gifv#embed"></iframe>
+  <image width="100%" height="1080" frameborder="0" src="https://i.imgur.com/k2nQGDt.gifv#embed"></image>
 </p>
 <h3 align="center">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
