@@ -25,17 +25,17 @@
 
 
 ```js
-const Daiana215 = {
-  pronouns: 'she' || 'her',
+const MaxxTobio = {
+  pronouns: 'he' || '',
   code: {
     languages: [ "JavaScript", "TypeScript" ],
     database: [ "MongoDB", "PostgreSQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize", "Typegoose", "Mongoose" ],
     frontEnd: [ "React", "Redux", "Hooks", "Material UI", "CSS modules" ],
-    inProgress: [ "Python", "CiberSecurity" ]
+    inProgress: [ "Python", "Machine learning" ]
   },
   contact: {
-    email: "daiana_agustina@outlook.com"
+    email: ""
   }
 };
 ```
