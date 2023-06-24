@@ -1,4 +1,4 @@
-<h3 align="right">Bariloche, Argentina🏔️</h3><br/> 
+<h3 align="center">Bariloche, Argentina🏔️</h3><br/> 
 
 <p align="center">
   <img src="https://github.com/MaximilianoTobio/alojamiento-imagenes/blob/main/git.gif" alt="Maxi Tobio" width="600" height="300">
