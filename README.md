@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://github.com/MaximilianoTobio/alojamiento-imagenes/blob/main/git.gif" alt="Maxi Tobio" width="700" height="400">
 </p>
-<h3 align="center">📍Bariloche 🏔️, Argentina </h3><br/> 
-## Sobre mi
+<h3 align="center">📍Bariloche 🏔️, Argentina </h3>
+<br/> 
+<h3>Sobre mi:
+</h3>
 
-"Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico."
+<h4>"Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico."</h4>
 
-## Traductor
+<h3>Traductor</h3>
 
 Haz clic en el botón para traducir el texto al inglés:
 
