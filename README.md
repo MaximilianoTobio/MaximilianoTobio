@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/k2nQGDt.gifv" alt="Maxi Tobio" width="700" height="400">
+
+  [Imgur](https://i.imgur.com/k2nQGDt.gifv)
+  
 </p>
+
 <h3 align="center">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
 
