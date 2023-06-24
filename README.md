@@ -9,8 +9,10 @@
 
 ```js
 const me = {
-  es: "Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico.",
-  en: "I am passionate about technology, I am always researching and testing new alternatives and developments. I enjoy solving problems and looking for new ideas for development. Programming is a fascinating discipline and I love immersing myself in it, feeling that it is an almost magical process."
+  language: {
+  es: ["Soy un apasionado de la tecnología, siempre estoy investigando y probando nuevas alternativas y desarrollos. Disfruto resolviendo problemas y buscando nuevas ideas para el desarrollo. La programación es una disciplina fascinante y me encanta sumergirme en ella, sintiendo que es un proceso casi mágico."],
+  en: ["I am passionate about technology, I am always researching and testing new alternatives and developments. I enjoy solving problems and looking for new ideas for development. Programming is a fascinating discipline and I love immersing myself in it, feeling that it is an almost magical process."]
+  }
 };
 ```
 </p>
