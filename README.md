@@ -1,6 +1,6 @@
 <p align="center">
 
- ![maxinfo](https://raw.githubusercontent.com/MaximilianoTobio/alojamiento-imagenes/main/github_banner.gif)
+ ![maxinfo](https://raw.githubusercontent.com/MaximilianoTobio/alojamiento-imagenes/main/githubProfile.gif)
 </p>
 <h3 align="right">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
