@@ -2,7 +2,7 @@
 
  ![maxinfo](https://raw.githubusercontent.com/MaximilianoTobio/alojamiento-imagenes/main/github_banner.gif)
 </p>
-<h3 align="center">📍Bariloche 🏔️, Argentina </h3>
+<h3 align="right">📍Bariloche 🏔️, Argentina </h3>
 <br/> 
 
 ### Sobre mí
